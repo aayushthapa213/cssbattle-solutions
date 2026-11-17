@@ -21,7 +21,7 @@ battle-01/
 | 3 | Push Button | - | 600.6 | [Code](battle-01/03-push-button/) |
 | 4 | Ups n Downs | - | 600.71 | [Code](battle-01/04-ups-n-downs/) |
 | 5 | Acid Rain | - | 600.37 | [Code](battle-01/05-acid-rain/) |
-| 6 | - | - | - | - |
+| 6 | Missing Slice | - | 600.38 | [Code](battle-01/06-missing-slice/) |
 | 7 | - | - | - | - |
 | 8 | - | - | - | - |
 | 9 | - | - | - | - |
