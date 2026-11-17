@@ -17,7 +17,7 @@ battle-01/
 | # | Challenge | Match | Score | Solution |
 |---|-----------|-------|-------|----------|
 | 1 | Simply Square | - | 601.42 | [Code](battle-01/01-simply-square/) |
-| 2 | - | - | - | - |
+| 2 | Carrom | - | 600.04 | [Code](battle-01/02-carrom/) |
 | 3 | - | - | - | - |
 | 4 | - | - | - | - |
 | 5 | - | - | - | - |
