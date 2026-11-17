@@ -22,7 +22,7 @@ battle-01/
 | 4 | Ups n Downs | - | 600.71 | [Code](battle-01/04-ups-n-downs/) |
 | 5 | Acid Rain | - | 600.37 | [Code](battle-01/05-acid-rain/) |
 | 6 | Missing Slice | - | 600.38 | [Code](battle-01/06-missing-slice/) |
-| 7 | - | - | - | - |
+| 7 | Leafy Trail | - | 601.24 (high: 602.04) | [Code](battle-01/07-leafy-trail/) |
 | 8 | - | - | - | - |
 | 9 | - | - | - | - |
 | 10 | - | - | - | - |
