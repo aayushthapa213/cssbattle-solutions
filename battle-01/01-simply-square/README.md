@@ -2,9 +2,9 @@
 
 **Battle 1 · Challenge 1** · [Play on CSSBattle](https://cssbattle.dev/play/1)
 
-| Score | Characters |
-|-------|------------|
-| 601.42 | 592 |
+| Score |
+|-------|
+| 601.42 |
 
 ## Target
 
