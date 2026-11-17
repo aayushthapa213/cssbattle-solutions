@@ -1,0 +1,47 @@
+<div class="up-container">
+  <div></div>
+</div>
+<div class="down-container">
+  <div></div>
+  <div></div>
+</div>
+
+<style>
+  *{
+    margin: 0;
+    background: #62306D;
+  }
+
+  body{
+    padding: 50px;
+  }
+
+  .up-container, .down-container{
+    height: 50%;
+    width: 100%;
+    display: flex;
+  }
+
+  .up-container{
+    justify-content: center;
+  }
+  
+  .up-container div{
+    background: #F7EC7D;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px 50px 0 0
+  }
+
+  .down-container{
+    justify-content: space-between;
+  }
+
+  .down-container div{
+    background: #F7EC7D;
+    height: 100px;
+    width: 100px;
+    border-radius: 0 0 50px 50px;
+  }
+  
+</style>

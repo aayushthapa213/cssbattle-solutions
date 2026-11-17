@@ -19,7 +19,7 @@ battle-01/
 | 1 | Simply Square | - | 601.42 | [Code](battle-01/01-simply-square/) |
 | 2 | Carrom | - | 600.04 | [Code](battle-01/02-carrom/) |
 | 3 | Push Button | - | 600.6 | [Code](battle-01/03-push-button/) |
-| 4 | - | - | - | - |
+| 4 | Ups n Downs | - | 600.71 | [Code](battle-01/04-ups-n-downs/) |
 | 5 | - | - | - | - |
 | 6 | - | - | - | - |
 | 7 | - | - | - | - |
