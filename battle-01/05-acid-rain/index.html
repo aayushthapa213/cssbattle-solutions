@@ -1,0 +1,46 @@
+  <div class="top"></div>
+  <div class="middle"></div>
+  <div class="bottom"></div>
+
+<style>
+  *{
+    margin: 0;
+    background: #0B2429;
+  }
+
+  body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .top{
+    height: 120px;
+    width: 120px;
+    background: #F3AC3C;
+    border-radius: 50% 0 50% 50%; 
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    z-index: 2;
+  }
+  .middle{
+    height: 120px;
+    width: 120px;
+    background: #998235;
+    border-radius: 50% 0 50% 50%; 
+    position: relative;
+    z-index: 1;
+  }
+
+  .bottom{
+    height: 120px;
+    width: 120px;
+    background: #F3AC3C;
+    border-radius: 50%; 
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+  }
+  
+</style>

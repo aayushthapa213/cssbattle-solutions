@@ -20,7 +20,7 @@ battle-01/
 | 2 | Carrom | - | 600.04 | [Code](battle-01/02-carrom/) |
 | 3 | Push Button | - | 600.6 | [Code](battle-01/03-push-button/) |
 | 4 | Ups n Downs | - | 600.71 | [Code](battle-01/04-ups-n-downs/) |
-| 5 | - | - | - | - |
+| 5 | Acid Rain | - | 600.37 | [Code](battle-01/05-acid-rain/) |
 | 6 | - | - | - | - |
 | 7 | - | - | - | - |
 | 8 | - | - | - | - |
