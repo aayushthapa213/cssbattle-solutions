@@ -16,7 +16,7 @@ battle-01/
 
 | # | Challenge | Match | Score | Solution |
 |---|-----------|-------|-------|----------|
-| 1 | - | - | - | - |
+| 1 | Simply Square | - | 601.42 | [Code](battle-01/01-simply-square/) |
 | 2 | - | - | - | - |
 | 3 | - | - | - | - |
 | 4 | - | - | - | - |
