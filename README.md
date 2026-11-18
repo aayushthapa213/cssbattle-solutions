@@ -24,7 +24,7 @@ battle-01/
 | 6 | Missing Slice | - | 600.38 | [Code](battle-01/06-missing-slice/) |
 | 7 | Leafy Trail | - | 601.24 (high: 602.04) | [Code](battle-01/07-leafy-trail/) |
 | 8 | - | - | - | - |
-| 9 | - | - | - | - |
+| 9 | Tesseract | - | 600.46 (high: 600.74) | [Code](battle-01/09-tesseract/) |
 | 10 | - | - | - | - |
 | 11 | - | - | - | - |
 | 12 | - | - | - | - |

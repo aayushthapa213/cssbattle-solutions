@@ -1,0 +1,42 @@
+<div class="container">
+  <div class="inner-container"></div>
+  <div class="circle"></div>
+</div>
+<style>
+  *{
+   margin: 0;
+    background: #222730;
+  }
+
+  body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container{
+    background: #4CAAB3;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .inner-container{
+    background: #4CAAB3;
+    height: 150px;
+    width: 150px;
+    border: solid #222730 50px;
+    transform: rotate(45deg);
+    backface-visibility: hidden;
+  }
+  
+  .circle{
+    position: absolute;
+    background: #393E46;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+</style>
